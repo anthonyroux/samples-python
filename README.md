@@ -21,7 +21,7 @@ All samples require `Python 3.3+`. You can install our [Python
 SDK](https://github.com/amadeus4dev/amadeus-python) using `pip`:
 
 ```
-    pip install amadeus==1.0.0b8
+    pip install amadeus
 ```
 
 Using `virtualenv` is highly recommended!
